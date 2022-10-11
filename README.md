@@ -1,4 +1,4 @@
-![mentoria](./formulario_aula.png)
+![mentoria](./Formulario_aula.png)
 
 #
 
